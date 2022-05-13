@@ -5,7 +5,7 @@ Dataset and following files(Google Drive) https://drive.google.com/drive/folders
 
 Introdution:
 
-Tried to extend the detection from Face_Mask_Detection_Using_MTCNN with 3 classification and detect image with people face wearing mask correctly, or incorrectly, or even non-wearing.
+Tried to extend the detection from Face_Mask_Detection_Using_MTCNN with 3 classes and detect image with people face wearing mask correctly, or incorrectly, or even non-wearing.
 
 
 
