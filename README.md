@@ -7,7 +7,7 @@ Tried to extend the detection from Face_Mask_Detection_Using_MTCNN with 3 classi
 
 Reference link:
 Main program reference below link
-[Link|https://github.com/yusrialsanaani/Face_Mask_Detection_Using_YOLO_and_MTCNN]
+https://github.com/yusrialsanaani/Face_Mask_Detection_Using_YOLO_and_MTCNN
 
 Using dataset was part from below link
 https://github.com/cabani/MaskedFace-Net
